@@ -2,4 +2,4 @@
 nothing fancy schmancy is going on here, just hosting assets and lists.
 
 > [!TIP]
-> Heres a little tip for you! Stop snooping.
+> Here's a little tip for you! Stop snooping.
