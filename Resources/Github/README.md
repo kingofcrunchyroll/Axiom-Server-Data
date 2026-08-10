@@ -1,1 +1,1 @@
-# Axiom Server Data <img src="../logo.png" alt="logo" width=48>
+# Axiom Server Data <img style="display: block; margin: auto;" src="../logo.png" alt="logo" width=48>
