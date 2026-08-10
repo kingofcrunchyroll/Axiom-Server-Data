@@ -1,1 +1,1 @@
-<h1>Axiom Server Data <img src="../logo.png" alt="logo" width="48" style="vertical-align: middle;"></h1>
+# Axiom Server Data <img src="../logo.png" alt="logo" width="48" align="absmiddle">
