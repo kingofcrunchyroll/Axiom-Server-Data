@@ -1,1 +1,1 @@
-# Axiom Server Data ![logo](Resources/logo.png]
+# Axiom Server Data ![logo](./Resources/logo.png]
