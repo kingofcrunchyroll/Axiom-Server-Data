@@ -4,6 +4,7 @@
     "Id": "whatcha_think?",
     "Question": "Do you like the makeover?",
     "Option1": "Hell yea",
-    "Option2": "Nah"
+    "Option2": "Nah",
+    "ended": false
   }
 }
